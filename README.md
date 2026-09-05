@@ -8,35 +8,82 @@ A collection of three activities completed during the Prelim period covering cor
 
 ## 🗂️ Project Overview
 
+<div align="center">
+
+<!-- Top Interactive Status Badges -->
+[![Status](https://img.shields.io/badge/Status-Clinical%20Duty%20Ready-58a6ff?style=for-the-badge&logo=medscape&logoColor=white)](#)
+[![Section](https://img.shields.io/badge/BSN-Section%204F-87CEEB?style=for-the-badge&logo=githubsponsors&logoColor=white)](#)
+[![Role](https://img.shields.io/badge/Track-Future%20RN%202026-white?style=for-the-badge&logo=shield&logoColor=2ea44f)](#)
+
+<br />
+
 <table>
   <tr>
-    <td width="220" align="center" valign="middle">
+    <!-- Left Column: Holographic-Style Avatar & Identity -->
+    <td width="240" align="center" valign="middle">
       <br />
-      <img src="https://robohash.org/Katrina.png?set=set4&size=160x160&bgset=bg1" alt="Cat Avatar" width="160" height="160" style="border-radius: 50%; display: block; margin: 0 auto;" />
-      <br />
+      <a href="https://github.com">
+        <img src="https://robohash.org/Katrina.png?set=set4&size=160x160&bgset=bg1" alt="Cat Avatar" width="150" height="150" style="border-radius: 50%; border: 3px solid #87CEEB;" />
+      </a>
+      <br /><br />
       <b>KATRINA MAE E. DIGAL</b><br />
       <sub><code>BSN 4F • CLASS OF 2026</code></sub>
       <br /><br />
+      <!-- Social / Quick Connect Chips -->
+      <a href="#"><img src="https://img.shields.io/badge/Nurse%20In%20The%20Making-87CEEB?style=flat-square&logo=heart&logoColor=white" /></a>
+      <br /><br />
     </td>
-    <td width="420" valign="top">
+
+    <!-- Right Column: Interactive Profile & Collapsible Trays -->
+    <td width="440" valign="top">
       <br />
-      <h3 style="margin-top: 0;">📋 Personal Profile</h3>
-      <ul>
-        <li><b>Full Name:</b> Katrina Mae E. Digal</li>
-        <li><b>Course:</b> Bachelor of Science in Nursing (BSN)</li>
-        <li><b>Section:</b> 4F</li>
-      </ul>
+      <h3 align="left">🪪 Student Identification Matrix</h3>
+      
+      <!-- Collapsible Profile Details -->
+      <details open>
+        <summary><b>📋 Academic Credentials</b> <i>(Click to collapse)</i></summary>
+        <br />
+        <ul>
+          <li><b>Name:</b> Katrina Mae E. Digal</li>
+          <li><b>Specialization:</b> Nursing Care Management & Clinical Practice</li>
+          <li><b>Affiliation:</b> Bachelor of Science in Nursing (BSN) — Class 4F</li>
+        </ul>
+      </details>
+
       <hr />
-      <h3>✨ Quick Favorites</h3>
-      <ul>
-        <li>🍝 <b>Comfort Food:</b> Creamy Carbonara</li>
-        <li>🩵 <b>Signature Shade:</b> Baby Blue / Sky Blue (<code>#87CEEB</code>)</li>
-        <li>📽️ <b>Favorite Film:</b> <i>Pride and Prejudice</i> (2005)</li>
-      </ul>
+
+      <!-- Collapsible Quick Favorites with Visual Pills -->
+      <details>
+        <summary><b>✨ Curated Favorites & Vibe</b> <i>(Click to expand)</i></summary>
+        <br />
+        <ul>
+          <li>
+            🍝 <b>Comfort Fuel:</b> <code>Creamy Carbonara</code> 
+            <img src="https://img.shields.io/badge/Cravings-Pasta-f5a623?style=flat-square" alt="Pasta" />
+          </li>
+          <li>
+            🩵 <b>Signature Tone:</b> 
+            <img src="https://img.shields.io/badge/Hex-%2387CEEB-87CEEB?style=flat-square&logoColor=white" alt="Baby Blue" />
+            <i>(Sky & Baby Blue)</i>
+          </li>
+          <li>
+            📽️ <b>Comfort Cinema:</b> <i>Pride and Prejudice (2005)</i>
+            <br />
+            <sub><i>"You have bewitched me, body and soul..."</i></sub>
+          </li>
+        </ul>
+      </details>
+
       <br />
     </td>
   </tr>
 </table>
+
+<!-- Interactive Quote Footer -->
+> [!TIP]
+> 🩺 **Clinical Note:** In the final stretch toward the RN license. Fuelled by espresso, warm pasta, and steady determination.
+
+</div>
 
 ### How I Created and Set Up the GitHub Repository 🚀📁
 
