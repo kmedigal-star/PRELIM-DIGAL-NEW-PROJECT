@@ -61,7 +61,7 @@ This activity explores the purpose, features, and practical applications of <b>G
 <br><br>
 
 <div align="center">
-  <a href="Activity%204%20PPT/GROUP-4-FORMS%20AND%20MEET%20PPT.pdf">
+  <a href="GROUP-4-FORMS-AND-MEET-PPT.pdf">
     📄 View Google Meet & Forms PPT →
   </a>
 </div>
