@@ -69,12 +69,12 @@ This activity explores the purpose, features, and practical applications of <b>G
 <br>
 
 <div align="center">
-  <img src="PPT.png" width="800">
+  <img src="PPT" width="800">
 </div>
 
 <br>
 
-<img src="../assets/reflection.png" width="800">
+<img src="Reflection.png" width="800">
 
 <br><br>
 
