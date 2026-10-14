@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="gmeet-gforms.png" width="350" alt="Activity 4">
+<img src="Activity 4 heading.png" width="350" alt="Activity 4">
 
 <p><b>✧･ﾟ MIDTERM REPORTING ･ﾟ✧</b></p>
 
@@ -10,7 +10,7 @@
 
 <br>
 
-<img src="../assets/overview.png" width="800">
+<img src="Overview.png" width="800">
 
 <br><br>
 
@@ -56,7 +56,7 @@ This activity explores the purpose, features, and practical applications of <b>G
 
 <br>
 
-<img src="../assets/more.png" width="800">
+<img src="more.png" width="800">
 
 <br><br>
 
