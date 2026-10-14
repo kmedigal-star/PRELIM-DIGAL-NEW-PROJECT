@@ -69,7 +69,7 @@ This activity explores the purpose, features, and practical applications of <b>G
 <br>
 
 <div align="center">
-  <img src="PPT" width="800">
+  <img src="PPT.png" width="800">
 </div>
 
 <br>
@@ -87,7 +87,3 @@ This activity explores the purpose, features, and practical applications of <b>G
 </p>
 
 <br>
-
-<div align="center">
-  <img src="../assets/line.png" width="800">
-</div>
