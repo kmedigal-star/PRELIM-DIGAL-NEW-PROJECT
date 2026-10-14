@@ -79,11 +79,11 @@ Google Meet and Google Forms together bridge the gap between synchronous collabo
 <br><br>
 
 <p align="justify">
-<i>Through this activity, I learned how Google Meet and Google Forms can make communication, collaboration, and information gathering more efficient. Google Meet helps people connect virtually, while Google Forms makes it easier to create quizzes, collect feedback, and organize responses.</i>
+<i> Working with Google Meet and Google Forms demonstrated how integrating synchronous communication with structured data management creates a resilient, efficient workflow. Google Meet showed me how virtual collaboration can transcend physical barriers through screen sharing and interactive discussion, fostering real-time teamwork and dynamic problem-solving.</i>
 </p>
 
 <p align="justify">
-<i>This activity helped me appreciate how digital tools can support my learning, teamwork, and future nursing practice.</i>
+<i> Complementing this, Google Forms underscored the power of automated, standardized data collection, turning subjective feedback and assessment into immediate, visual summaries and actionable spreadsheets. Ultimately, using both platforms revealed that technological literacy is less about navigating interfaces and more about creating organized, accessible systems that streamline communication, minimize administrative friction, and support evidence-based decisions in academic and professional practice. </i>
 </p>
 
 <br>
