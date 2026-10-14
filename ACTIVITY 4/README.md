@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="Activity 4 heading.png" width="350" alt="Activity 4">
+<img src="Activity 4 heading.png" width="800" alt="Activity 4">
 
 <p><b>✧･ﾟ MIDTERM REPORTING ･ﾟ✧</b></p>
 
@@ -21,7 +21,7 @@
 <br>
 
 <p align="justify">
-This activity explores the purpose, features, and practical applications of <b>Google Meet and Google Forms</b> as essential digital tools for communication, collaboration, and information management.
+Google Meet and Google Forms together bridge the gap between synchronous collaboration and systematic information management, making them essential tools for academic, organizational, and healthcare environments. While Google Meet provides a secure, interactive space for live discussions, lectures, and team check-ins through screen sharing, chat, and breakout rooms, Google Forms automates data collection by turning surveys, quizzes, and registrations into organized, real-time summaries and spreadsheets. Used in tandem, they create an efficient end-to-end workflow that allows facilitators to gather baseline information, host real-time collaborative sessions, and immediately evaluate feedback or assess comprehension without a manual administrative burden.
 </p>
 
 <table>
@@ -31,7 +31,7 @@ This activity explores the purpose, features, and practical applications of <b>G
 </td>
 <td width="80%">
   <p align="justify">
-  <b>Google Meet</b> is an online video conferencing platform that enables users to conduct virtual meetings, online classes, presentations, and group discussions through features such as screen sharing, in-meeting chat, captions, and collaborative controls.
+  <b>Google Meet</b> serves as a virtual communication hub that replicates face-to-face interaction across distributed settings without geographical barriers. Features like screen sharing enable dynamic visual presentations and practical demonstrations, while live chat, hand-raising, and automated captions allow audiences to engage actively and inclusively without interrupting the speaker. Combined with host controls like breakout rooms and participant management, it provides a structured, accessible environment well-suited for academic lectures, team discussions, and professional collaborations.
   </p>
 </td>
 </tr>
@@ -44,7 +44,7 @@ This activity explores the purpose, features, and practical applications of <b>G
 </td>
 <td width="80%">
   <p align="justify">
-  Meanwhile, <b>Google Forms</b> allows users to create surveys, quizzes, registration forms, and feedback forms, collect responses in real time, and organize data through automatic summaries and Google Sheets integration.
+  Meanwhile, <b>Google Forms</b> transforms manual information gathering into an automated, structured workflow. Creators can build custom surveys, quizzes, and registration forms with diverse question formats, input validation, and self-grading features. Responses are compiled instantly into visual charts and synced directly to a live Google Sheet, providing real-time data organization and analysis without administrative hassle.
   </p>
 </td>
 </tr>
