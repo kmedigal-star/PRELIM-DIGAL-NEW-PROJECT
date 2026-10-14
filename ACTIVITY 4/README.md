@@ -15,7 +15,7 @@
 <br><br>
 
 <div align="center">
-  <img src="../assets/gmeet-gforms.png" width="300">
+  <img src="gmeet-gforms.png" width="300">
 </div>
 
 <br>
@@ -27,7 +27,7 @@ This activity explores the purpose, features, and practical applications of <b>G
 <table>
 <tr>
 <td width="20%" align="center">
-  <img src="../assets/gmeet.png" width="120">
+  <img src="gmeet.png" width="120">
 </td>
 <td width="80%">
   <p align="justify">
@@ -40,7 +40,7 @@ This activity explores the purpose, features, and practical applications of <b>G
 <table>
 <tr>
 <td width="20%" align="center">
-  <img src="../assets/gforms.png" width="120">
+  <img src="gforms.png" width="120">
 </td>
 <td width="80%">
   <p align="justify">
