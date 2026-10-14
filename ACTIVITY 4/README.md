@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="../assets/activity-4-header.png" width="350" alt="Activity 4">
+<img src="gmeet-gforms.png" width="350" alt="Activity 4">
 
 <p><b>✧･ﾟ MIDTERM REPORTING ･ﾟ✧</b></p>
 
