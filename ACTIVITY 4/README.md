@@ -66,6 +66,7 @@ Google Meet and Google Forms together bridge the gap between synchronous collabo
   </a>
 </div>
 
+<div align="center">
 <a href="Activity%204%20Outputs/GROUP-4-FORMS%20AND%20MEET%20PPT.pdf">
   📄 View Google Meet & Forms PPT →
 </a>
@@ -73,6 +74,7 @@ Google Meet and Google Forms together bridge the gap between synchronous collabo
 <br>
 <br>
 
+<div align="center">
 <a href="https://docs.google.com/forms/d/e/1FAIpQLSfperDHgiW2recV86enfxMl6Lav0aZCxHtS3fycjsJGuVEPvw/viewform?usp=sharing&ouid=118413879498339873868">
   📝 View Google Forms Quiz →
 </a>
@@ -80,6 +82,7 @@ Google Meet and Google Forms together bridge the gap between synchronous collabo
 <br>
 <br>
 
+<div align="center">
 <a href="Activity%204%20Outputs/GE-4120_G4_Quiz.pdf">
   📊 View Classmates' Quiz Scores →
 </a>
