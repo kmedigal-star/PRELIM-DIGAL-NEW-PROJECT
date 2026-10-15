@@ -65,12 +65,6 @@ Google Meet and Google Forms together bridge the gap between synchronous collabo
     📄 View Google Meet & Forms PPT →
   </a>
 </div>
-
-<div align="center">
-<a href="Activity%204%20Outputs/GROUP-4-FORMS%20AND%20MEET%20PPT.pdf">
-  📄 View Google Meet & Forms PPT →
-</a>
-
 <br>
 <br>
 
